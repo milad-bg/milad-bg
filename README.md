@@ -32,5 +32,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=milad-bg&show_icons=true&locale=en&layout=compact" alt="milad-bg" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=milad-bg&show_icons=true&locale=en" alt="milad-bg" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=milad-bg&" alt="milad-bg" /></p>
